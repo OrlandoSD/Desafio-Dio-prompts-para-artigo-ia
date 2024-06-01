@@ -47,7 +47,7 @@ Imagens geradas por: I.A. lexica.art
 
 Editor de imagem: Power Point
 
-Conteúdo gerado por: ChatGPT 
+Conteúdo gerado por: ChatGPT
 
 Revisões Humanas: OrlandoSD
 
